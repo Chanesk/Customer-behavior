@@ -41,30 +41,6 @@ The dataset contains:
 - Product ratings
 - Subscription information
 
-### Main Data Dimensions
-
-#### Customer Information
-- Age
-- Gender
-- Location
-- Subscription Status
-
-#### Purchase Information
-- Item Purchased
-- Category
-- Purchase Amount
-- Season
-- Size
-- Color
-
-#### Shopping Behavior
-- Discount Applied
-- Promo Code Used
-- Previous Purchases
-- Frequency of Purchases
-- Review Rating
-- Shipping Type
-
 ---
 
 ## 🧹 Data Preparation with Python

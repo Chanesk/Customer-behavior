@@ -158,7 +158,7 @@ The final analysis was presented through an interactive **Power BI dashboard**.
 
 ### Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](images/customer-shopping-dashboard.png)
+![Customer Shopping Behavior Dashboard](customer_dashboard.png)
 
 > Replace `images/customer-shopping-dashboard.png` with the actual location of your dashboard screenshot in your GitHub repository.
 

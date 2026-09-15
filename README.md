@@ -259,7 +259,7 @@ Use shipping behavior, including express-shipping usage, to better understand hi
 
 [View the cleaned customer dataset](cleaned_customer_data.csv)
 
-### 🐍 Python Analysis
+### Python Analysis
 
 [View the Python notebook](customer_behavior_analysis.ipynb)
 
@@ -269,7 +269,7 @@ Use shipping behavior, including express-shipping usage, to better understand hi
 
 ### 📈 Power BI Dashboard
 
-[View the dashboard screenshot](images/customer-shopping-dashboard.png)
+[View the dashboard screenshot](customer_dashboard.png)
 
 ---
 
